@@ -1,0 +1,104 @@
+MIT License
+
+Copyright (c) 2025 Satellite Imagery Viewing System Contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## Third-Party Data and Services
+
+This software uses data and services from third-party providers. Users must
+comply with the respective terms and licenses of these providers:
+
+### Satellite Data
+- **EUMETSAT**: Data provided by the European Organisation for the Exploitation
+  of Meteorological Satellites. Subject to EUMETSAT data policy and terms of use.
+  - GeoColour RGB - MTG: https://data.eumetsat.int/product/EO:EUM:DAT:0913
+  - Fog / Low Clouds RGB - MTG-I: https://data.eumetsat.int/product/EO:EUM:DAT:1023
+
+- **NASA GIBS**: Data provided by NASA's Global Imagery Browse Services.
+  Subject to NASA data policy and terms of use.
+  - NOAA-2 / VIIRS: https://www.earthdata.nasa.gov/data/catalog/lancemodis-vj103mod-nrt-2.1
+
+### Geographic Data
+- **Natural Earth Data**: Public domain map data
+  - Source: https://www.naturalearthdata.com/
+  - License: Public Domain
+  - Terms: https://www.naturalearthdata.com/about/terms-of-use/
+
+- **OpenStreetMap**: Open data licensed under ODbL
+  - Source: https://www.openstreetmap.org/
+  - License: Open Database License (ODbL)
+  - Terms: https://www.openstreetmap.org/copyright
+
+### Basemaps
+- **Esri World Imagery**: Provided by Esri
+  - Source: https://www.esri.com/
+  - Subject to Esri Terms of Use
+
+### Libraries
+- **Leaflet.js**: Open-source JavaScript library for interactive maps
+  - Source: https://leafletjs.com/
+  - License: BSD 2-Clause License
+  - Copyright (c) 2010-2023, Vladimir Agafonkin
+  - Copyright (c) 2010-2023, CloudMade
+
+---
+
+## Attribution Requirements
+
+When using this software, you must:
+
+1. **Include the original copyright notice** and this license in all copies
+   or substantial portions of the software.
+
+2. **Provide proper attribution** to all third-party data sources and services
+   as specified in their respective terms of use.
+
+3. **Comply with the terms of use** of all third-party data providers,
+   including but not limited to:
+   - EUMETSAT data policy
+   - NASA data policy
+   - Natural Earth terms of use
+   - OpenStreetMap copyright and license
+   - Esri Terms of Use
+
+4. **Include disclaimers** if you modify or redistribute this software,
+   indicating that the software is provided "as is" without warranty.
+
+---
+
+## Disclaimer
+
+This software is provided for informational and educational purposes only.
+The developers, data providers, and operators of this system:
+
+- Do not accept any responsibility for the accuracy, completeness, or
+  reliability of the data displayed.
+- Do not guarantee the availability, timeliness, or continuity of the service.
+- Do not accept liability for any decisions made or actions taken based on
+  information obtained from this system.
+- Do not recommend the use of this system for critical applications,
+  operational decision-making, navigation, aviation, emergency response, or
+  any other high-stakes scenarios.
+
+All responsibility for the use of this system and any consequences thereof
+rests entirely with the user.
+
