@@ -177,10 +177,6 @@ satellite-imagery-viewer/
 │
 └── screenshots/        # Screenshot images (add your screenshots here)
     ├── main-view.png
-    ├── interface.png
-    ├── layer-info.png
-    ├── welcome.png
-    └── timeline.png
 ```
 
 ## Key Features Implementation
@@ -239,17 +235,6 @@ This project is open source. Please refer to the individual licenses of:
 - **EUMETSAT Data**: Subject to EUMETSAT data policy
 - **NASA Data**: Subject to NASA data policy
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-### Areas for Contribution
-- Additional satellite data sources
-- Performance optimizations
-- UI/UX improvements
-- Documentation enhancements
-- Bug fixes
-
 ## Acknowledgments
 
 - **EUMETSAT** for providing satellite imagery data
@@ -261,7 +246,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Contact
 
-For questions, issues, or suggestions, please open an issue on GitHub.
+For questions, issues, or suggestions, please open an issue on GitHub or reach me via e-mail.
+
+yasincansahin@hotmail.com
 
 ---
 
