@@ -107,7 +107,7 @@ An interactive satellite imagery viewing system with a modern and user-friendly 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/satellite-imagery-viewer.git
+git clone https://github.com/yasincansahin/satellite-imagery-viewer.git
 cd satellite-imagery-viewer
 ```
 
